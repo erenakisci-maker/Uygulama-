@@ -1,0 +1,8 @@
+{
+  "name": " Lexicon betav1",
+  "description": "Öngörücü anlamsal arama ve Gemini tarafından desteklenen derin etimolojik içgörülere sahip, yazılı kelimeler için birinci sınıf bir dijital sığınak.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
